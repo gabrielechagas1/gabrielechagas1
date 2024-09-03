@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil🖤
 
-<!--
-**gabrielechagas1/gabrielechagas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriele Chagas ⤵
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura] (https:) ; ❗
+- Estou usando esse espaço para a minha organização e compartilhamento dos meus meus projetos desenvolvidos ❗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### você entra em contato comigo⤵️
+
+gabrielechagas746#@gmail.com
+
+chagas.ferreira@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/JbnLKar05tAAAAAC/anime-girl-light-blue-hair-anime.gif)
