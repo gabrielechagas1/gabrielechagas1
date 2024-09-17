@@ -2,7 +2,7 @@
 
 Meu nome é Gabriele Chagas ⤵
 
-- Estou estudando na [Alura] (https:) ; ❗
+- Estou estudando na [Alura](https://ww.alura.com.br) ; ❗
 - Estou usando esse espaço para a minha organização e compartilhamento dos meus meus projetos desenvolvidos ❗
 
 
