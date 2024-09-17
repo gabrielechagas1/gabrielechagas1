@@ -8,7 +8,7 @@ Meu nome é Gabriele Chagas ⤵
 
 ### você entra em contato comigo⤵️
 
-gabrielechagas746#@gmail.com
+gabrielechagas746@gmail.com
 
 chagas.ferreira@escola.pr.gov.br
 
